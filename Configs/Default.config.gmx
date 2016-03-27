@@ -410,7 +410,7 @@
     <option_savekey>true</option_savekey>
     <option_scale>0</option_scale>
     <option_scaleprogress>true</option_scaleprogress>
-    <option_sci_UseSCI>-1</option_sci_UseSCI>
+    <option_sci_UseSCI>0</option_sci_UseSCI>
     <option_sci_serverLocation>git@bitbucket.org:Tythus/test.git</option_sci_serverLocation>
     <option_screenkey>True</option_screenkey>
     <option_screenshotkey>true</option_screenshotkey>
